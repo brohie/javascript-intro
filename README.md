@@ -1,2 +1,2 @@
 # javascript-intro
-An intro to javascript
+https://brohie.github.io/javascript-intro/
