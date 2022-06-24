@@ -1,0 +1,15 @@
+main{
+    display: flex;
+    flex-direction: column;
+    background-color: darkcyan;
+    width: 50%;
+    height: 300px;
+    margin-left: 10em;
+    margin-top: 8em;
+    justify-content: center;
+    align-items: center;
+    padding: 4em;
+}
+h2{
+    color: aliceblue;
+}
